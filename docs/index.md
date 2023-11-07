@@ -1,12 +1,12 @@
 # Troisième 
 
-- [Accès troisième](.)
+- [Accès troisième](./3eme.md)
 
 # Sixième
 
-- [Accès quatrième](.)
+- [Accès quatrième](./6eme.md)
 
 # Énigmes
 
-- [Accès énigmes](.)
+- [Accès énigmes](./enigmes.md)
 
