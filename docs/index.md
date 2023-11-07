@@ -4,7 +4,7 @@
 
 # Sixième
 
-- [Accès quatrième](./6eme.md)
+- [Accès sixième](./6eme.md)
 
 # Énigmes
 
