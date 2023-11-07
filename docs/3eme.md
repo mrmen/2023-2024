@@ -21,7 +21,7 @@
 
 ## Cartes mentales
 
-- [Statistiques](./3eme/cartes/t-carte-statistiques.pdf)
 - [Pythagore](./3eme/cartes/t-carte-pythagore.pdf)
-- [Trigonométrie](./3eme/cartes/t-carte-trigonometrie.pdf)
+- [Statistiques](./3eme/cartes/t-carte-statistiques.pdf)
+#- [Trigonométrie](./3eme/cartes/t-carte-trigonometrie.pdf)
 - [Résolution d'équations](./3eme/cartes/t-carte-equations.pdf)
