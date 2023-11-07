@@ -2,7 +2,7 @@
 
 ## Contenus de cours 
 - DS
-    - DS1 [sujet](./3eme/ds/t-ds1.pdf) [corrigé](./3eme/ds/t-ds1.pdf)
+    - DS1 [sujet](./3eme/301_agrandissement_ds.pdf) [corrigé](.)
 
 
 - Agrandissement
@@ -14,6 +14,10 @@
 - Statistiques
     - [leçon](./3eme/302_statistiques_cours.pdf)
     - [exercices](./3eme/302_statistiques_exercices.pdf) [correction problèmes](./3eme/302_statistiques_exercices_correctionPB.pdf)
+    
+- Calcul littéral
+    - [leçon](./3eme/303_litteral_exercices.pdf)
+    - [exercices](./3eme/303_litteral_cours.pdf
 
 ## Cartes mentales
 
