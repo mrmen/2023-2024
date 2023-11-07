@@ -17,7 +17,7 @@
     
 - Calcul littéral
     - [leçon](./3eme/303_litteral_exercices.pdf)
-    - [exercices](./3eme/303_litteral_cours.pdf
+    - [exercices](./3eme/303_litteral_cours.pdf)
 
 ## Cartes mentales
 
