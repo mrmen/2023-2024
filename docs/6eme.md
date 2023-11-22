@@ -1,5 +1,7 @@
 # Sixième
 
+[6eme6](./6eme6.md)
+
 ## Contenus de cours 
 
 - Nombres entiers
