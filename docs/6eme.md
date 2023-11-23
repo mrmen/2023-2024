@@ -1,7 +1,7 @@
 # Sixième
 
-[6eme6](./6eme6.md)
-[6eme2](./6eme2.md)
+- [6eme6](./6eme6.md)
+- [6eme2](./6eme2.md)
 
 ## Contenus de cours 
 
