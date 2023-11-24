@@ -1,4 +1,4 @@
-# Sixième
+# Troisième
 
 - [3eme1](./3eme1.md)
 
