@@ -26,3 +26,7 @@
 - Géométrie dans l’espace 
 
     - [Fiche exercices](./6eme/604_espace_exercices.pdf)
+    
+- Gestion de données 
+
+    - [Fiche exercices](./6eme/605_donnees_exercices.pdf)
