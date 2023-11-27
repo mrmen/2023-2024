@@ -1,3 +1,10 @@
+## Semaine 47
+
 - Fichier du [mardi 21 novembre 2023](./6eme6/2023-11-21_6eme6.pdf)
 - Fichier du [jeudi 23 novembre 2023](./6eme6/2023-11-23_6eme6.pdf)
 - Fichier du [vendredi 24 novembre 2023](./6eme6/2023-11-24_6eme6.pdf)
+
+
+## Semaine 48
+ 
+- Fichier du [lundi 27 novembre 2023](./6eme6/2023-11-27_6eme6.pdf)
