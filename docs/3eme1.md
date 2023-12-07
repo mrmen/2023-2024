@@ -7,3 +7,4 @@
 ## Semaine 48 
  
 - Fichier du [lundi 27 novembre 2023](./3eme1/2023-11-27_3eme1.pdf)
+- Fichier du [jeudi 07 décembre 2023](./3eme1/2023-12-07_3eme1.pdf)
