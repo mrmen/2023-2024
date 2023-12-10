@@ -16,6 +16,13 @@
 - [Trigonométrie](./3eme/cartes/t-carte-trigonometrie.pdf)
 - [Fonctions](./3eme/cartes/t-carte-fonctions.pdf)
 
+## Révisions DNB
+
+### DNB blanc 1
+
+- [sujet semaine 1](./3eme/3001_dnb1_fiche1_sujet.pdf)
+- [correction semaine 1 (en cours)](./3eme/3001_dnb1_fiche1_cor.pdf)
+
 ## Contenus de cours 
 
 - Pythagore
