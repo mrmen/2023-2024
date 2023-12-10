@@ -21,6 +21,7 @@
     - [Fiche exercices](./6eme/603_divisions_exercices.pdf)
 
 - Géométrie dans l’espace 
+    - [Leçon](./6eme/605_espace_cours.pdf)
     - [Fiche exercices](./6eme/604_espace_exercices.pdf)
     
 - Gestion de données 
