@@ -14,6 +14,7 @@
 - [Pythagore](./3eme/cartes/t-carte-pythagore.pdf)
 - [Statistiques](./3eme/cartes/t-carte-statistiques.pdf)
 - [Trigonométrie](./3eme/cartes/t-carte-trigonometrie.pdf)
+- [Fonctions](./3eme/cartes/t-carte-fonctions.pdf)
 
 ## Contenus de cours 
 
