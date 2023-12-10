@@ -39,4 +39,6 @@
 	- [Fiche d’exercices](./3eme/304_trigonometrie_exercices.pdf)
 	
 - Fonctions
+	- [Leçon](./3eme/305_fonctions_cours.pdf)
 	- [Fiche d’exercices](./3eme/305_fonctions_exercices.pdf)
+	- [Activité numérique](./3eme/305_fonctions_co.pdf)
