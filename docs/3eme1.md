@@ -14,6 +14,4 @@
 ## Semaine 49
 
 - Fichier du [lundi 11 décembre 2023](./3eme1/2023-12-11_3eme1.pdf)
-=======
-- Fichier du [lundi 11 décembre 2023](./3eme1/2023-12-11_3eme1.pdf)
->>>>>>> refs/remotes/origin/main
+
