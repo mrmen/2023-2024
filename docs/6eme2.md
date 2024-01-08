@@ -15,4 +15,4 @@
 
 - Fichier du [lundi 11 décembre 2023](./6eme2/2023-12-11_6eme2.pdf)
 - Fichier du [mardi 12 décembre 2023](./6eme2/2023-12-12_6eme2.pdf)
-- Fichier du [jeudi 14 décembre 2023](./6eme2/2023-12-14_6eme2.pdf)
+- Fichier du [jeudi 14 décembre 2023](./6eme2/2023-12-14_6eme2.pdf)- Fichier du [lundi 08 janvier 2024](./6eme2/2024-01-08_6eme2.pdf)
