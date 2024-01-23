@@ -22,3 +22,4 @@
 - Fichier du [mardi 16 janvier 2024](./6eme2/2024-01-16_6eme2.pdf)
 - Fichier du [jeudi 18 janvier 2024](./6eme2/2024-01-18_6eme2.pdf)
 - Fichier du [lundi 22 janvier 2024](./6eme2/2024-01-22_6eme2.pdf)
+- Fichier du [mardi 23 janvier 2024](./6eme2/2024-01-23_6eme2.pdf)
