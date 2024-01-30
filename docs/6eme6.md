@@ -9,20 +9,33 @@
  
 - Fichier du [lundi 27 novembre 2023](./6eme6/2023-11-27_6eme6.pdf)
 - Fichier du [mardi 28 novembre 2023](./6eme6/2023-11-28_6eme6.pdf)
-- Fichier du [jeudi 07 décembre 2023](./6eme6/2023-12-07_6eme6.pdf)
-- Fichier du [vendredi 08 décembre 2023](./6eme6/2023-12-08_6eme6.pdf)
-- Fichier du [lundi 11 décembre 2023](./6eme6/2023-12-11_6eme6.pdf)
-
 
 ## Semaine 49
 
+- Fichier du [jeudi 07 décembre 2023](./6eme6/2023-12-07_6eme6.pdf)
+- Fichier du [vendredi 08 décembre 2023](./6eme6/2023-12-08_6eme6.pdf)
+
+## Semaine 50 
+
 - Fichier du [lundi 11 décembre 2023](./6eme6/2023-12-11_6eme6.pdf)
 - Fichier du [jeudi 14 décembre 2023](./6eme6/2023-12-14_6eme6.pdf)
+
+## Semaine 2
+
 - Fichier du [lundi 08 janvier 2024](./6eme6/2024-01-08_6eme6.pdf)
 - Fichier du [mardi 09 janvier 2024](./6eme6/2024-01-09_6eme6.pdf)
 - Fichier du [jeudi 11 janvier 2024](./6eme6/2024-01-11_6eme6.pdf)
 - Fichier du [vendredi 12 janvier 2024](./6eme6/2024-01-12_6eme6.pdf)
+
+## Semaine 3
+
 - Fichier du [mardi 16 janvier 2024](./6eme6/2024-01-16_6eme6.pdf)
+
+## Semaine 4
+
 - Fichier du [mardi 23 janvier 2024](./6eme6/2024-01-23_6eme6.pdf)
 - Fichier du [jeudi 25 janvier 2024](./6eme6/2024-01-25_6eme6.pdf)
+
+## Semaine 5
+
 - Fichier du [lundi 29 janvier 2024](./6eme6/2024-01-29_6eme6.pdf)
