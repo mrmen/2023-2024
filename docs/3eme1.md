@@ -19,3 +19,4 @@
 - Fichier du [jeudi 11 janvier 2024](./3eme1/2024-01-11_3eme1.pdf)
 - Fichier du [vendredi 12 janvier 2024](./3eme1/2024-01-12_3eme1.pdf)
 - Fichier du [jeudi 25 janvier 2024](./3eme1/2024-01-25_3eme1.pdf)
+- Fichier du [vendredi 02 février 2024](./3eme1/2024-02-02_3eme1.pdf)
