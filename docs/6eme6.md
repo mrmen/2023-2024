@@ -40,3 +40,4 @@
 
 - Fichier du [lundi 29 janvier 2024](./6eme6/2024-01-29_6eme6.pdf)
 - Fichier du [mardi 30 janvier 2024](./6eme6/2024-01-30_6eme6.pdf)
+- Fichier du [vendredi 02 février 2024](./6eme6/2024-02-02_6eme6.pdf)
