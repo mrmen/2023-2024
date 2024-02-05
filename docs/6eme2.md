@@ -43,3 +43,4 @@
 - Fichier du [mardi 30 janvier 2024](./6eme2/2024-01-30_6eme2.pdf)
 - Fichier du [vendredi 02 février 2024](./6eme2/2024-02-02_6eme2.pdf)
 - Fichier du [lundi 05 février 2024](./6eme2/2024-02-05_6eme2.pdf)
+- Fichier du [lundi 05 février 2024](./6eme2/2024-02-05_6eme2.pdf)
