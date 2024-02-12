@@ -46,3 +46,4 @@
 
 - Fichier du [lundi 05 février 2024](./6eme6/2024-02-05_6eme6.pdf)
 - Fichier du [mardi 06 février 2024](./6eme6/2024-02-06_6eme6.pdf)
+- Fichier du [lundi 12 février 2024](./6eme6/2024-02-12_6eme6.pdf)
