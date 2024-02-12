@@ -47,4 +47,7 @@
 
 - Fichier du [lundi 05 février 2024](./6eme2/2024-02-05_6eme2.pdf)
 - Fichier du [mardi 06 février 2024](./6eme2/2024-02-06_6eme2.pdf)
+
+## Semaine 7 
+
 - Fichier du [lundi 12 février 2024](./6eme2/2024-02-12_6eme2.pdf)
