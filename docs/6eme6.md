@@ -53,3 +53,4 @@
 - Fichier du [mardi 05 mars 2024](./6eme6/2024-03-05_6eme6.pdf)
 - Fichier du [jeudi 07 mars 2024](./6eme6/2024-03-07_6eme6.pdf)
 - Fichier du [lundi 11 mars 2024](./6eme6/2024-03-11_6eme6.pdf)
+- Fichier du [vendredi 15 mars 2024](./6eme6/2024-03-15_6eme6.pdf)
