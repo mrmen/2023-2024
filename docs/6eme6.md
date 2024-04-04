@@ -59,3 +59,4 @@
 - Fichier du [lundi 18 mars 2024](./6eme6/2024-03-18_6eme6.pdf)
 - Fichier du [jeudi 21 mars 2024](./6eme6/2024-03-21_6eme6.pdf)
 
+- Fichier du [jeudi 04 avril 2024](./6eme6/2024-04-04_6eme6.pdf)
