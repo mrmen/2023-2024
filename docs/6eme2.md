@@ -57,3 +57,4 @@
 
 
 - Fichier du [lundi 18 mars 2024](./6eme2/2024-03-18_6eme2.pdf)
+- Fichier du [jeudi 04 avril 2024](./6eme2/2024-04-04_6eme2.pdf)
