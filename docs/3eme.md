@@ -49,3 +49,7 @@
 	- [Leçon](./3eme/305_fonctions_cours.pdf)
 	- [Fiche d’exercices](./3eme/305_fonctions_exercices.pdf)
 	- [Activité numérique](./3eme/305_fonctions_co.pdf)
+
+- Fonctions Affines
+	- [Leçon](./3eme/307_affines_cours.pdf)
+	- [Fiche d’exercices](./3eme/307_affines_exercices.pdf)
