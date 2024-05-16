@@ -67,3 +67,4 @@
 - Fichier du [samedi 04 mai 2024](./6eme6/2024-05-04_6eme6.pdf)
 - Fichier du [lundi 06 mai 2024](./6eme6/2024-05-06_6eme6.pdf)
 - Fichier du [lundi 13 mai 2024](./6eme6/2024-05-13_6eme6.pdf)
+- Fichier du [jeudi 16 mai 2024](./6eme6/2024-05-16_6eme6.pdf)
