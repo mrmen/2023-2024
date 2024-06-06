@@ -71,3 +71,4 @@
 - Fichier du [mardi 07 mai 2024](./6eme2/2024-05-07_6eme2.pdf)
 - Fichier du [mardi 21 mai 2024](./6eme2/2024-05-21_6eme2.pdf)
 - Fichier du [mardi 28 mai 2024](./6eme2/2024-05-28_6eme2.pdf)
+- Fichier du [jeudi 06 juin 2024](./6eme2/2024-06-06_6eme2.pdf)
