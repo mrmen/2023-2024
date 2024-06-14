@@ -74,3 +74,4 @@
 - Fichier du [jeudi 06 juin 2024](./6eme6/2024-06-06_6eme6.pdf)
 - Fichier du [vendredi 07 juin 2024](./6eme6/2024-06-07_6eme6.pdf)
 - Fichier du [lundi 10 juin 2024](./6eme6/2024-06-10_6eme6.pdf)
+- Fichier du [vendredi 14 juin 2024](./6eme6/2024-06-14_6eme6.pdf)
